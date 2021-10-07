@@ -17,11 +17,11 @@ async def help_user(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚨Updates Channel🚨", url="https://t.me/Universal_Projects"),
-                    InlineKeyboardButton("👷Support Group👷", url="https://t.me/JV_Community")
+                    InlineKeyboardButton("NONE", url="https://t.me/UffaDAjects"),
+                    InlineKeyboardButton("NONE", url="https://t.me/dsfsfsfdsf")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/Jigarvarma2005")
+                    InlineKeyboardButton("NONE", url="https://t.me/rtebghdh")
                 ]
             ]
         ),
@@ -44,11 +44,11 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚨Updates Channel🚨", url="https://t.me/Universal_Projects"),
-                    InlineKeyboardButton("👷Support Group👷", url="https://t.me/JV_Community")
+                    InlineKeyboardButton("NONE", url="https://t.me/sdfgaertger"),
+                    InlineKeyboardButton("NONE", url="https://t.me/erhyet5yt")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/Jigarvarma2005")
+                    InlineKeyboardButton("NON", url="https://t.me/shtrtju6ytu")
                 ]
             ]
         ),
