@@ -18,37 +18,40 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "2061961975:AAHb_eXrMxJ5vFXTauIc8TP8s5bSDEMIXCk"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "8543975"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "32743732a28d299f0036deba7cde2e59"
     },
     "UPDATES_CHANNEL": {
       "description": "Your updates channel username",
       "required": false
     },
     "TOKEN_PICKLE": {
-      "description": "`token.pickle` file link to download & use."
+      "description": "`token.pickle` file link to download & use.",
+      "value": "https://tera-tools-bot.herokuapp.com/1205721821467856/token%20%282%29.pickle"
     },
     "GDRIVE_FOLDER_ID": {
-      "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the telegram media"
+      "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the telegram media",
+      "value": "1XovnIek1ktz9u_AkN1QUH9J_ApOvhPu0"
     },
     "IS_TEAM_DRIVE": {
       "description": "Set to 'True' if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty.",
       "required": false,
-      "value": "False"
+      "value": "True"
     },
     "USE_SERVICE_ACCOUNTS": {
       "description": "Whether to use service accounts or not. For this to work see 'Using service accounts' section readme file in repo",
       "value": "False"
     },
     "INDEX_URL": {
-      "description": " Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'"
+      "description": " Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'",
+      "value": "https://auto.lox.workers.dev/"
     }
   },
   "addons": [
